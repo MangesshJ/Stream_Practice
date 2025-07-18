@@ -60,10 +60,6 @@ public class Stream_Basic {
 			System.out.println(x);
 			System.out.println(y);
 		};
-	
 		
-		
-	
 	}
-
 }
